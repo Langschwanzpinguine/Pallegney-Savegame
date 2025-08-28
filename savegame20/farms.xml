@@ -2,13 +2,10 @@
 <farms>
     <farm farmId="1" name="LeFerme" color="1" loan="0.000000" money="391016.968750">
         <players>
-            <player uniqueUserId="LorJkVeqOZNABkj2nP8P7dfoEwaJa9eHqbeOEcV+VNA=" farmManager="true" lastNickname="Jaques LeCow" timeLastConnected="2025/08/28 14:43" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
-            <player uniqueUserId="i0DJzT3C05bRHAvTHuyr+WSn3uIXgAQPVPThKB/uBeY=" farmManager="true" lastNickname="Jauche Jakob" timeLastConnected="2025/08/28 14:42" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
-            <player uniqueUserId="IrD/5tZOyTGbDTiDsApM/X7T/TeMAEmYc+H0oczexKc=" farmManager="true" lastNickname="moyie" timeLastConnected="2025/08/28 14:41" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
-            <player uniqueUserId="player" farmManager="true" lastNickname="moyie" timeLastConnected="2025/08/28 14:39" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Jaques LeCow" timeLastConnected="2025/08/28 16:22" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <statistics>
-            <traveledDistance>8.375625</traveledDistance>
+            <traveledDistance>8.395749</traveledDistance>
             <fuelUsage>79.032898</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>0.000000</sprayUsage>
@@ -37,7 +34,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>46.600582</playTime>
+            <playTime>47.075245</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +45,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>8.375625</tractorDistance>
+            <tractorDistance>8.395749</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
