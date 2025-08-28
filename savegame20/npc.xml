@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<npcs>
+    <npc name="NPC_01" finishedMissions="0"/>
+    <npc name="NPC_02" finishedMissions="0"/>
+    <npc name="NPC_03" finishedMissions="0"/>
+    <npc name="NPC_04" finishedMissions="0"/>
+</npcs>

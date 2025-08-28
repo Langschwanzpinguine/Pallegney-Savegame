@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<onCreateLoadedObjects>
+    <object saveId="AnimatedObject_gate6Bar_14ftV3" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate6BarWoodenPost_14ftV2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate6BarWoodenPost_14ftV3" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate7Bar_Double" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate6BarWoodenPost_14ftV" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate6Bar_14ftV1" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate7Bar_Double3" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate6Bar_14ftVMesh" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate7Bar_Double2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate6Bar_14ftV2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_gate7Bar_Double1" time="0.000000" direction="0"/>
+</onCreateLoadedObjects>
