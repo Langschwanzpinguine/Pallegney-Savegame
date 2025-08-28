@@ -1,0 +1,6 @@
+*
+!.gitignore
+!savegame20
+!savegame20/
+!savegame20/*
+
