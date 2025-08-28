@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <storeDeliveries isLoaded="true">
-    <storeLocation x="67.839249" y="55.311188" z="274.619446"/>
-    <storeRotation x="-0.454423" y="1.242987" z="0.000000"/>
-    <storeDirection x="0.289295" y="0.000000" z="-0.850669"/>
-    <storePerpDirection x="0.850669" y="0.000000" z="0.289295"/>
-    <storeTeleportLocation x="76.345932" y="57.007420" z="277.512390"/>
+    <storeLocation x="75.825684" y="55.279278" z="274.614838"/>
+    <storeRotation x="-0.828904" y="-1.411869" z="0.000000"/>
+    <storeDirection x="0.106934" y="0.000000" z="0.667169"/>
+    <storePerpDirection x="-0.667169" y="0.000000" z="0.106934"/>
+    <storeTeleportLocation x="69.153992" y="57.000187" z="275.684174"/>
 </storeDeliveries>

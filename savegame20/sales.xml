@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <sales>
-    <item timeLeft="36" isGenerated="true" xmlFilename="data/vehicles/kuhn/tf1512/tf1512.xml" age="33" price="7442" damage="0.440769" wear="0.434885" operatingTime="95926.398438"/>
-    <item timeLeft="31" isGenerated="true" xmlFilename="data/vehicles/fendt/mt1100/mt1100.xml" age="20" price="195960" damage="0.487377" wear="0.517296" operatingTime="47775.859375"/>
-    <item timeLeft="22" isGenerated="true" xmlFilename="data/vehicles/kroeger/pwo24/pwo24.xml" age="23" price="9169" damage="0.338633" wear="0.905948" operatingTime="66256.109375">
+    <item timeLeft="34" isGenerated="true" xmlFilename="data/vehicles/kuhn/tf1512/tf1512.xml" age="33" price="7442" damage="0.440769" wear="0.434885" operatingTime="95926.398438"/>
+    <item timeLeft="29" isGenerated="true" xmlFilename="data/vehicles/fendt/mt1100/mt1100.xml" age="20" price="195960" damage="0.487377" wear="0.517296" operatingTime="47775.859375"/>
+    <item timeLeft="20" isGenerated="true" xmlFilename="data/vehicles/kroeger/pwo24/pwo24.xml" age="23" price="9169" damage="0.338633" wear="0.905948" operatingTime="66256.109375">
         <boughtConfiguration name="tensionBelts" id="1"/>
         <boughtConfiguration name="folding" id="2"/>
     </item>
-    <item timeLeft="35" isGenerated="false" xmlFilename="data/vehicles/poettinger/impress125FPro/impress125FPro.xml" age="1" price="41760" damage="0.001446" wear="0.002052" operatingTime="119.025856">
-        <boughtConfiguration name="fillUnit" id="1"/>
+    <item timeLeft="33" isGenerated="false" xmlFilename="data/vehicles/poettinger/impress125FPro/impress125FPro.xml" age="1" price="41760" damage="0.001446" wear="0.002052" operatingTime="119.025856">
         <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
         <boughtConfiguration name="wheel" id="BKT_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
     </item>
 </sales>
