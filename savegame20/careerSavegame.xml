@@ -13,19 +13,19 @@
         <trailerFillLimit>false</trailerFillLimit>
         <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
         <growthMode>1</growthMode>
-        <plannedDaysPerPeriod>2</plannedDaysPerPeriod>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
         <fruitDestruction>true</fruitDestruction>
         <plowingRequiredEnabled>false</plowingRequiredEnabled>
-        <stonesEnabled>true</stonesEnabled>
+        <stonesEnabled>false</stonesEnabled>
         <weedsEnabled>true</weedsEnabled>
         <limeRequired>true</limeRequired>
         <isSnowEnabled>true</isSnowEnabled>
         <fuelUsage>3</fuelUsage>
-        <helperBuyFuel>true</helperBuyFuel>
-        <helperBuySeeds>true</helperBuySeeds>
-        <helperBuyFertilizer>true</helperBuyFertilizer>
-        <helperSlurrySource>2</helperSlurrySource>
-        <helperManureSource>2</helperManureSource>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
         <densityMapRevision>3</densityMapRevision>
         <terrainTextureRevision>1</terrainTextureRevision>
         <terrainLodTextureRevision>2</terrainLodTextureRevision>
@@ -51,34 +51,34 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>25403</money>
-        <playTime>299.661133</playTime>
+        <money>15852</money>
+        <playTime>474.912872</playTime>
     </statistics>
-    <slotSystem slotUsage="1648"/>
+    <slotSystem slotUsage="1703"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
-    <mod modName="FS22_Pallegney" title="Pallegney" version="1.2.0.0" required="true" fileHash="44b46e3ca332f855901f99d0cb0c9de2"/>
+    <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.1" required="false" fileHash="5359be9ae727974edde9f964b4739661"/>
     <mod modName="FS22_faresinPF113" title="Faresin PF1.13" version="1.0.0.0" required="false" fileHash="cddef7ac73ead167d2ef9b2fbe13584f"/>
-    <mod modName="FS22_jacobyEurotrac2000" title="Jacoby EUROtrac 2000" version="1.0.0.0" required="false" fileHash="92fdda0f86a93dfa95c23b48b222933a"/>
+    <mod modName="FS22_FendtFarmer300Ci" title="Fendt Farmer 300 Ci" version="1.0.0.0" required="false" fileHash="deb1965174dd115929c7ce8001615e75"/>
+    <mod modName="FS22_StickyFeet" title="Sticky Feet" version="1.0.0.0" required="false" fileHash="b20eb3e3c02fe893538c0ae5b827bbfd"/>
+    <mod modName="FS22_schaefferSWH_tools" title="Schäffer SWH Tools" version="1.0.0.0" required="false" fileHash="a38b01974fc7a46b320b19be222795e2"/>
+    <mod modName="FS22_Pallegney" title="Pallegney" version="1.2.0.0" required="true" fileHash="44b46e3ca332f855901f99d0cb0c9de2"/>
+    <mod modName="FS22_disableFoldableMS" title="Disable Foldable For Manure System Mods" version="1.0.0.0" required="false" fileHash="b630dc93fc1cb6f38f584bd1d597447e"/>
+    <mod modName="FS22_guettlerMayor" title="Güttler Mayor" version="1.0.3.0" required="false" fileHash="d8b4ab963f3507e485721f8fe801cb79"/>
+    <mod modName="FS22_Caravan_522up" title="Lizard Caravan 522up" version="1.0.0.0" required="false" fileHash="6bce9672da77c20cb6b84ae96a04f1bc"/>
+    <mod modName="FS22_fendtFarmConPack" title="FarmCon24 - Fendt Pack" version="1.0.0.0" required="false" fileHash="a2a2f6a0d15bbcd1ba6088a91936939e"/>
     <mod modName="FS22_fellaGrasslandEquipment" title="Fella Grassland Equipment" version="1.0.0.0" required="false" fileHash="c03ffd80f96390cc9142902d61cab47b"/>
-    <mod modName="FS22_French_Temporary_Signs" title="French Temporary Signs" version="1.1.0.0" required="false" fileHash="59eb38462bf40cc2a8ffe6c1b6acbc12"/>
-    <mod modName="FS22_kernerCoronaPack" title="Kerner Corona Pack" version="1.1.0.0" required="false" fileHash="56e8b61027056136f03245f0f64e6c40"/>
     <mod modName="FS22_storeDeliveries" title="Store Deliveries" version="1.5.0.0" required="false" fileHash="81a8260c4f4558ebb442784a4640c39e"/>
+    <mod modName="FS22_jacobyEurotrac2000" title="Jacoby EUROtrac 2000" version="1.0.0.0" required="false" fileHash="92fdda0f86a93dfa95c23b48b222933a"/>
+    <mod modName="FS22_SmallSilo" title="Small Grain Silo" version="1.0.0.2" required="false" fileHash="564fab982017ea5629be6300e45acdc6"/>
     <mod modName="FS22_fendtPlatformGTA" title="Fendt GTA Platform" version="1.0.0.0" required="false" fileHash="6b118ae29414c4a91c3a475ca47f668e"/>
     <mod modName="FS22_DecorativeDetailsPack" title="Decorative Details Pack" version="1.2.0.0" required="false" fileHash="cc05f91717320ac279afb649f3e96b6f"/>
-    <mod modName="FS22_mercedesBenzMBtracSeries" title="Mercedes-Benz MBtrac Series" version="1.1.0.1" required="false" fileHash="26a767850c0527b1de9a6f47e25feee8"/>
+    <mod modName="FS22_Fendt400Vario" title="Fendt 400 Vario TMS" version="1.0.0.0" required="false" fileHash="7426ae592a1f5e959e74bc3780e617f8"/>
     <mod modName="FS22_schaeffer2033" title="Schäffer 2033" version="1.0.0.0" required="false" fileHash="81f160927bc3ac7de5943d5ba3afb129"/>
     <mod modName="FS22_paintAndTerraformAnywhere" title="Paint And Terraform Anywhere" version="1.1.0.0" required="false" fileHash="7986a119fe50c5489aea0fbdd687ba15"/>
-    <mod modName="FS22_fendtFarmConPack" title="FarmCon24 - Fendt Pack" version="1.0.0.0" required="false" fileHash="a2a2f6a0d15bbcd1ba6088a91936939e"/>
-    <mod modName="FS22_guettlerMayor" title="Güttler Mayor" version="1.0.3.0" required="false" fileHash="d8b4ab963f3507e485721f8fe801cb79"/>
-    <mod modName="FS22_SmallSilo" title="Small Grain Silo" version="1.0.0.2" required="false" fileHash="564fab982017ea5629be6300e45acdc6"/>
-    <mod modName="FS22_schaefferSWH_tools" title="Schäffer SWH Tools" version="1.0.0.0" required="false" fileHash="a38b01974fc7a46b320b19be222795e2"/>
-    <mod modName="FS22_disableFoldableMS" title="Disable Foldable For Manure System Mods" version="1.0.0.0" required="false" fileHash="b630dc93fc1cb6f38f584bd1d597447e"/>
     <mod modName="FS22_manureSystem" title="Manure System" version="1.2.0.0" required="false" fileHash="af976f58b28e286839339970475b9333"/>
-    <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.1" required="false" fileHash="5359be9ae727974edde9f964b4739661"/>
-    <mod modName="FS22_Fendt400Vario" title="Fendt 400 Vario TMS" version="1.0.0.0" required="false" fileHash="7426ae592a1f5e959e74bc3780e617f8"/>
-    <mod modName="FS22_Caravan_522up" title="Lizard Caravan 522up" version="1.0.0.0" required="false" fileHash="6bce9672da77c20cb6b84ae96a04f1bc"/>
-    <mod modName="FS22_StickyFeet" title="Sticky Feet" version="1.0.0.0" required="false" fileHash="b20eb3e3c02fe893538c0ae5b827bbfd"/>
-    <mod modName="FS22_FendtFarmer300Ci" title="Fendt Farmer 300 Ci" version="1.0.0.0" required="false" fileHash="deb1965174dd115929c7ce8001615e75"/>
+    <mod modName="FS22_kernerCoronaPack" title="Kerner Corona Pack" version="1.1.0.0" required="false" fileHash="56e8b61027056136f03245f0f64e6c40"/>
+    <mod modName="FS22_French_Temporary_Signs" title="French Temporary Signs" version="1.1.0.0" required="false" fileHash="59eb38462bf40cc2a8ffe6c1b6acbc12"/>
+    <mod modName="FS22_mercedesBenzMBtracSeries" title="Mercedes-Benz MBtrac Series" version="1.1.0.1" required="false" fileHash="26a767850c0527b1de9a6f47e25feee8"/>
 </careerSavegame>
