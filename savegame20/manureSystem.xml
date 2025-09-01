@@ -3,8 +3,8 @@
     <hoses>
         <hose objectId="8">
             <grabNodesToObjects>
-                <grabNode grabNodeId="1" connectorId="1" objectId="14" objectName="Slurry hose"/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="3" objectName="Cow Barn"/>
+                <grabNode grabNodeId="1" connectorId="1" objectId="3" objectName="Cow Barn"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="14" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="9">
@@ -16,13 +16,13 @@
         <hose objectId="10">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="26" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="25" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="11">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="25" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="24" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="12">
@@ -40,13 +40,13 @@
         <hose objectId="14">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="24" objectName="Pump"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="23" objectName="Pump"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="15">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="2" objectId="24" objectName="Pump"/>
+                <grabNode grabNodeId="2" connectorId="2" objectId="23" objectName="Pump"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="16">
@@ -76,7 +76,7 @@
         <hose objectId="20">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="23" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="22" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="21">
@@ -85,70 +85,88 @@
                 <grabNode grabNodeId="2" connectorId="1" objectId="12" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="22"/>
-        <hose objectId="23">
+        <hose objectId="22">
             <grabNodesToObjects>
                 <grabNode/>
                 <grabNode grabNodeId="2" connectorId="1" objectId="19" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="25">
+        <hose objectId="24">
             <grabNodesToObjects>
                 <grabNode/>
                 <grabNode grabNodeId="2" connectorId="1" objectId="13" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="26">
+        <hose objectId="25">
             <grabNodesToObjects>
                 <grabNode/>
                 <grabNode grabNodeId="2" connectorId="1" objectId="11" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="27">
+        <hose objectId="26">
             <grabNodesToObjects>
                 <grabNode/>
                 <grabNode grabNodeId="2" connectorId="1" objectId="10" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="28">
-            <grabNodesToObjects>
-                <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="29" objectName="Slurry hose"/>
-            </grabNodesToObjects>
-        </hose>
-        <hose objectId="29"/>
-        <hose objectId="30">
+        <hose objectId="27">
             <grabNodesToObjects>
                 <grabNode/>
                 <grabNode grabNodeId="2" connectorId="1" objectId="28" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
+        <hose objectId="28">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="30" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="29">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="27" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="30">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="26" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
         <hose objectId="31">
             <grabNodesToObjects>
-                <grabNode grabNodeId="2" connectorId="1" objectId="27" objectName="Slurry hose"/>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="29" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="32">
             <grabNodesToObjects>
-                <grabNode grabNodeId="2" connectorId="1" objectId="30" objectName="Slurry hose"/>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="33" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="33">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="34" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="40" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="34"/>
+        <hose objectId="34">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="35" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
         <hose objectId="35">
             <grabNodesToObjects>
+                <grabNode/>
                 <grabNode grabNodeId="2" connectorId="1" objectId="36" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="36">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="37" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="38" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
         <hose objectId="37">
@@ -157,14 +175,870 @@
                 <grabNode grabNodeId="2" connectorId="1" objectId="39" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="38"/>
+        <hose objectId="38">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="32" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
         <hose objectId="39">
             <grabNodesToObjects>
                 <grabNode/>
-                <grabNode grabNodeId="2" connectorId="1" objectId="33" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="34" objectName="Slurry hose"/>
             </grabNodesToObjects>
         </hose>
-        <hose objectId="40"/>
-        <hose objectId="41"/>
+        <hose objectId="40">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="31" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="41">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="37" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="42">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="41" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="43">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="42" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="44">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="45" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="45">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="43" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="46">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="47" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="47">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="44" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="48">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="49" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="49">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="57" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="50">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="51" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="51">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="48" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="52">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="46" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="53">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="52" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="54">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="56" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="55">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="54" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="56">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="53" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="57">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="59" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="58">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="55" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="59">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="60" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="60">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="58" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="61">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="62" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="62">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="50" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="63">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="64" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="64">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="61" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="65">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="66" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="66">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="63" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="67">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="69" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="68">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="81" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="69">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="78" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="70">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="75" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="71">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="72" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="72">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="67" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="73">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="76" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="74">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="68" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="75">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="73" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="76">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="74" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="77">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="71" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="78">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="70" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="79">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="65" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="80">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="79" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="81">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="82" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="82">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="80" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="83">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="86" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="84">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="77" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="85">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="87" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="86">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="84" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="87">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="83" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="88">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="85" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="89">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="90" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="90">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="88" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="91">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="92" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="92">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="89" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="93">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="94" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="94">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="91" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="95">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="96" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="96">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="93" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="97">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="95" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="98">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="100" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="99">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="102" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="100">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="97" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="101">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="98" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="102">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="101" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="103">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="99" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="104">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="107" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="105">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="108" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="106">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="179" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="107">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="103" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="108">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="104" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="109">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="106" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="110">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="112" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="111">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="114" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="112">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="115" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="113">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="110" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="114">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="109" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="115">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="111" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="116">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="117" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="117">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="113" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="118">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="119" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="119">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="116" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="120">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="121" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="121">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="118" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="122">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="123" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="123">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="120" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="124">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="125" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="125">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="122" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="126">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="127" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="127">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="124" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="128">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="133" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="129">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="130" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="130">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="126" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="131">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="129" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="132">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="128" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="133">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="131" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="134">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="135" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="135">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="132" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="136">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="137" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="137">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="134" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="138">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="139" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="139">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="136" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="140">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="141" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="141">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="138" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="142">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="144" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="143">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="146" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="144">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="143" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="145">
+            <grabNodesToObjects>
+                <grabNode grabNodeId="1" connectorId="2" objectId="1" objectName="Biogas Plant 250kW"/>
+                <grabNode grabNodeId="2" connectorId="2" objectId="182" objectName="Pump"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="146">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="147" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="147">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="148" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="148">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="149" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="149">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="150" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="150">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="151" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="151">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="152" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="152">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="153" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="153">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="154" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="154">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="155" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="155">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="159" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="156">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="157" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="157">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="161" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="158">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="163" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="159">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="160" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="160">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="156" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="161">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="162" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="162">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="158" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="163">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="167" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="164">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="165" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="165">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="166" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="166">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="168" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="167">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="164" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="168">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="169" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="169">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="171" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="170">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="173" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="171">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="172" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="172">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="170" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="173">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="174" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="174">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="175" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="175">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="177" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="176">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="178" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="177">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="176" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="178">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="140" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="179">
+            <grabNodesToObjects>
+                <grabNode/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="105" objectName="Slurry hose"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="181">
+            <grabNodesToObjects>
+                <grabNode grabNodeId="1" connectorId="1" objectId="142" objectName="Slurry hose"/>
+                <grabNode grabNodeId="2" connectorId="3" objectId="180" objectName="FRC 55"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="183">
+            <grabNodesToObjects>
+                <grabNode grabNodeId="1" connectorId="2" objectId="180" objectName="FRC 55"/>
+                <grabNode grabNodeId="2" connectorId="1" objectId="182" objectName="Pump"/>
+            </grabNodesToObjects>
+        </hose>
+        <hose objectId="184"/>
     </hoses>
 </manureSystem>

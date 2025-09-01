@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <sales>
-    <item timeLeft="10" isGenerated="true" xmlFilename="data/vehicles/newHolland/superflexDraper45ft/superflexDraper45ft.xml" age="19" price="43205" damage="0.466953" wear="0.439403" operatingTime="71667.039062"/>
-    <item timeLeft="29" isGenerated="true" xmlFilename="data/vehicles/kemper/plus345/plus345_newHolland.xml" age="13" price="31896" damage="0.584182" wear="0.593765" operatingTime="25906.109375"/>
+    <item timeLeft="9" isGenerated="true" xmlFilename="data/vehicles/faresin/telehandler626/telehandler626Electric.xml" age="37" price="46610" damage="0.280593" wear="0.437896" operatingTime="70698.734375"/>
+    <item timeLeft="8" isGenerated="true" xmlFilename="data/vehicles/caseIH/steiger4WD/steiger4WD.xml" age="29" price="168995" damage="0.413897" wear="0.896927" operatingTime="91385.000000"/>
+    <item timeLeft="13" isGenerated="true" xmlFilename="data/vehicles/bredal/k165/k165.xml" age="17" price="42683" damage="0.310370" wear="0.384794" operatingTime="41168.832031"/>
+    <item timeLeft="16" isGenerated="true" xmlFilename="data/vehicles/kongskilde/gxt13005P/gxt13005P.xml" age="31" price="45176" damage="0.566460" wear="0.847701" operatingTime="142587.531250"/>
+    <item timeLeft="19" isGenerated="true" xmlFilename="data/vehicles/demco/steelDropDeck/steelDropDeck.xml" age="13" price="16335" damage="0.256516" wear="0.438271" operatingTime="36040.988281"/>
 </sales>
