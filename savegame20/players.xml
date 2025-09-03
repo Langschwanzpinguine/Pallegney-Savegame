@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <players>
-    <player uniqueUserId="IrD/5tZOyTGbDTiDsApM/X7T/TeMAEmYc+H0oczexKc=" timeLastConnected="2025/09/01 22:31">
+    <player uniqueUserId="IrD/5tZOyTGbDTiDsApM/X7T/TeMAEmYc+H0oczexKc=" timeLastConnected="2025/09/02 14:54">
         <style filename="dataS/character/humans/player/player02.xml" bottomConfigId="concretePants" bottomConfigColor="4" faceConfigId="head01" faceConfigColor="1" footwearConfigId="racing" footwearConfigColor="3" glassesConfigId="aviator" glassesConfigColor="1" hairStyleConfigId="hair07" hairStyleConfigColor="13" topConfigId="teeShirt" topConfigColor="6"/>
+    </player>
+    <player uniqueUserId="LorJkVeqOZNABkj2nP8P7dfoEwaJa9eHqbeOEcV+VNA=" timeLastConnected="2025/09/02 14:54">
+        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="chinos" bottomConfigColor="4" faceConfigId="head01" faceConfigColor="1" footwearConfigId="galoshes" footwearConfigColor="3" glassesConfigId="vintage" glassesConfigColor="1" hairStyleConfigId="hair15" hairStyleConfigColor="14" headgearConfigId="beret" headgearConfigColor="5" mustacheConfigId="upwardHandlebar_head01" mustacheConfigColor="14" topConfigId="constructionVest" topConfigColor="65"/>
     </player>
     <player uniqueUserId="i0DJzT3C05bRHAvTHuyr+WSn3uIXgAQPVPThKB/uBeY=" timeLastConnected="2025/09/01 22:31">
         <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="5" faceConfigId="head01" faceConfigColor="1" footwearConfigId="cowboy" footwearConfigColor="3" glassesConfigId="reading" glassesConfigColor="1" hairStyleConfigId="hair11" hairStyleConfigColor="16" headgearConfigId="outback" headgearConfigColor="3" topConfigId="topPlaidShirt" topConfigColor="17"/>
-    </player>
-    <player uniqueUserId="LorJkVeqOZNABkj2nP8P7dfoEwaJa9eHqbeOEcV+VNA=" timeLastConnected="2025/08/30 11:32">
-        <style filename="dataS/character/humans/player/player01.xml" bottomConfigId="chinos" bottomConfigColor="4" faceConfigId="head01" faceConfigColor="1" footwearConfigId="galoshes" footwearConfigColor="3" glassesConfigId="vintage" glassesConfigColor="1" hairStyleConfigId="hair15" hairStyleConfigColor="14" headgearConfigId="beret" headgearConfigColor="5" mustacheConfigId="upwardHandlebar_head01" mustacheConfigColor="14" topConfigId="constructionVest" topConfigColor="65"/>
     </player>
 </players>
